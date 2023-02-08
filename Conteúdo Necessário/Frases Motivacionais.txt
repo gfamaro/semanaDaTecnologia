@@ -1,0 +1,8 @@
+frases = [
+    'Nem todas as tempestades vêm para atrapalhar a sua vida. Algumas vêm para limpar seu caminho.',
+    'A persistência realiza o impossível.',
+    'Seus sonhos não precisam de plateia, eles só precisam de você.',
+    'A persistência é o caminho do êxito.',
+    'É parte da cura o desejo de ser curado.',
+    'Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.',
+  ]
